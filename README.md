@@ -18,7 +18,7 @@ Built with **Google's Gemini 2.0**
 ## 🚀 How to Run Locally
 
 1.clone the repositoy
-git clone https://github.com/your-username/agentic-resume-reviewer.git
+git clone https://github.com/BHAVYA5843/agentic-resume-reviewer.git
 
 2.Navigate to the project directory:
 cd agentic-resume-reviewer
